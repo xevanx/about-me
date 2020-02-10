@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    font: #777777;
+    font-family: 'Arial', 'Helevtica Neue', Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    position: center;
+}
+
+.upper {
+    background-color: #ffffff;
+    padding: 50px;
+    border-color: #cccccc;
+}
+
+.header {
+    font-size: 36px;
+    font-weight: bold;
+    content: "";
+    clear: both;
+    float: left;
+    margin-left: 90px;
+    background-color: #4aaaa5;
+    padding: 34px;
+    margin-top: -60px;
+    float: left;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+.tags {
+    float: right;
+    background-color: #ffffff;
+    content: "";
+    clear: both;
+    margin-top: -40px;
+}
+
+.mainbox {
+    padding-bottom: 5%;
+    padding-top: 30px;
+    background-image: url('../images/spikes.png');
+}
+
+.innerbox {
+    float: center;
+    margin-top: 20px;
+    width: 960px;
+    margin-left: 250px;
+    content: "";
+    clear: both;
+    background-color: white;
+}
+
+.innerhead {
+    font-size: 28px;
+    font-weight: bold;
+    content: "";
+    clear: both;
+    padding-top: 30px;
+    margin-left: 30px;
+}
+
+.innertext {
+    content: "";
+    clear: both;
+    margin-left: 30px;
+    border-top: 2px solid #777777;
+    padding-top: 5px;
+    margin-top: -20px;
+}
+
+.text {
+    content: "";
+    clear: both;
+    line-height: 2;
+    margin-right: 30px;
+    text-align: left;
+    overflow: hidden;
+}
+
+footer {
+    position: sticky;
+    clear: both;
+    content: "";
+    border-top: 8px solid #4aaaa5;
+}
+
+.images {
+    content: "";
+    clear: both;
+    margin-left: 30px;
+    border-top: 2px solid #777777;
+    padding-top: 5px;
+    margin-top: -20px;
+    
+}
+
+.imagetext1 {
+    content: "";
+    clear: both;
+    background-color: #4aaaa5;
+    width: 300px;
+    height: 40px;
+    float: left;
+    margin-top: -400px;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.imagetext2 {
+    content: "";
+    clear: both;
+    background-color: #4aaaa5;
+    width: 300px;
+    height: 40px;
+    float: left;
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-top: -400px;
+    margin-left: 304px;
+}
+
+.imagetext3 {
+    content: "";
+    clear: both;
+    background-color: #4aaaa5;
+    width: 300px;
+    height: 40px;
+    float: left;   
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-top: -95px;
+}
