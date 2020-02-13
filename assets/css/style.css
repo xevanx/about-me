@@ -22,7 +22,7 @@ img {
     content: "";
     clear: both;
     float: left;
-    margin-left: 90px;
+    margin-left: 200px;
     background-color: #4aaaa5;
     padding: 34px;
     margin-top: -60px;
@@ -35,7 +35,9 @@ img {
     background-color: #ffffff;
     content: "";
     clear: both;
-    margin-top: -40px;
+    margin-top: -69px;
+    margin-right: 210px;
+    vertical-align: baseline;
 }
 
 .mainbox {
